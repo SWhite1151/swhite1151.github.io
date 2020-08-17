@@ -23,7 +23,7 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: making it rain$$$$$
+    description: Samuel JW White, MD
     keywords: foo, bar, baz
     crawl: index,follow
 
@@ -43,7 +43,7 @@ baseurl: '/fuse-core'
 #ga:
 ga:
     account: 'UA-120960520-1'
-    cookieconsent: true
+    cookieconsent: false
     anonymizeip: true
 
 
@@ -66,7 +66,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    $$$$$$$
 
 #EOF
