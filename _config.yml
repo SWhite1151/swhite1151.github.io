@@ -61,6 +61,14 @@ links:
       show: true
       href: https://www.linkedin.com/in/samuel-white-47192615a/
       icon: fab fa-linkedin
+  - blog:
+      name: Research
+      show: true
+      href: https://www.mendeley.com/profiles/samuel-white5/publications/
+      icon: fas fa-book-open
+
+
+
 
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
